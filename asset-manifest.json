@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fivecountrymern/static/css/main.d30717ca.css",
+    "main.js": "/fivecountrymern/static/js/main.40ff4036.js",
+    "static/media/main.jpg": "/fivecountrymern/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/fivecountrymern/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/fivecountrymern/index.html",
+    "main.d30717ca.css.map": "/fivecountrymern/static/css/main.d30717ca.css.map",
+    "main.40ff4036.js.map": "/fivecountrymern/static/js/main.40ff4036.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d30717ca.css",
+    "static/js/main.40ff4036.js"
+  ]
+}
